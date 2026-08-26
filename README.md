@@ -68,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/shaiksofiyasumaya20/DSA-leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/shaiksofiyasumaya20/DSA-leetcode/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/shaiksofiyasumaya20/DSA-leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
